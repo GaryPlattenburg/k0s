@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-The cluster must be running at least one worker node and control plane on Linux. You ca use Windows to run additional worker nodes.
+The cluster must be running at least one worker node and control plane on Linux. You can use Windows to run additional worker nodes.
 
 ## Build k0s.exe
 
